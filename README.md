@@ -5,6 +5,6 @@
 - middleware: PHP
 
 register 
-![register](register.png)
+![register](blog/images/register.png)
 login
-![login](login.png)
+![login](blog/images/login.png)
